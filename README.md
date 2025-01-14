@@ -23,14 +23,15 @@ Bạn có thể tham khảo CV chi tiết của tôi tại:
 
 ## Dự án tiêu biểu
 Một số dự án đáng chú ý mà tôi đã tham gia:
-- **[DAKsystem](https://hoangquoctuan.net/daksystem)**  
+- **[DAKsystem](https://daksystem.net)**  
   Công ty thiết kế website sử dụng các công nghệ: React, Vite, Tailwind CSS, Deezer API.
-- **[DaklakWeb](https://hoangquoctuan.net/daklakweb)**  
+- **[Dịch vụ thiết kế web Daklak](https://dakdesign.net)**  
   Dịch vụ thiết kế web chuyên nghiệp sử dụng Next.js, Prisma, OpenAI.
-- **[Faceland - Namsilk - OtoAuto](https://hoangquoctuan.net/faceland-namsilk-otoauto)**  
+- Faceland - Namsilk - OtoAuto
   Đăng tin bất động sản, mua bán ô tô và thời trang may mặc sử dụng Next.js, Sanity.
-- **[DAKdesign](https://hoangquoctuan.net/dakdesign)**  
+- **[Thiết kế web Daklak](https://dakdesign.net)**  
   Dịch vụ thiết kế với các công nghệ React, Firebase, Cloudflare.
+
 
 ## Kỹ năng
 Tôi luôn tìm kiếm các cách thức mới để cải thiện kỹ năng và nâng cao năng lực kỹ thuật của mình:
