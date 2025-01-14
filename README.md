@@ -1,4 +1,3 @@
-# Info
 # THẠC SĨ HOÀNG QUỐC TUẤN
 **Frontend Developer**
 
