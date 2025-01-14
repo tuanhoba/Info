@@ -1,21 +1,42 @@
 # THẠC SĨ HOÀNG QUỐC TUẤN
 **Frontend Developer**
 
-Chào bạn! Tôi là Hoàng Quốc Tuấn, một Frontend Developer với hơn 10 năm kinh nghiệm trong việc tạo giao diện người dùng và xây dựng ứng dụng di động. Trong suốt sự nghiệp của mình, tôi đã có cơ hội khám phá và nâng cao kỹ năng trong nhiều dự án khác nhau, đặc biệt là tại **Daksystem** - nơi tôi đã xây dựng những sản phẩm mơ ước của mình.
+Với 10 năm kinh nghiệm, tôi đã có cơ hội khám phá và nâng cao kỹ năng của mình trong việc tạo giao diện người dùng và xây dựng ứng dụng di động. Sự nghiệp chuyên môn của tôi được gắn bó đặc biệt bởi **Daksystem**, nơi tôi đã dành để tạo dựng ước mơ cho mình.
+
+## CV của tôi
+Bạn có thể tham khảo CV chi tiết của tôi tại:  
+[Thạc sĩ Hoàng Quốc Tuấn Profile](https://hoangquoctuan.net)
 
 ## Con đường tôi đi
-Tôi bắt đầu sự nghiệp phát triển phần mềm từ những ngày đầu với mong muốn tạo ra các sản phẩm mang tính sáng tạo và hữu ích cho người dùng. Qua nhiều năm, tôi đã tham gia vào các dự án lớn, chủ yếu tập trung vào việc phát triển giao diện người dùng và các ứng dụng di động.
+### Kinh nghiệm
+- **Năm 2012 - Đến nay**  
+  **Frontend && Backend Developer** tại **Daksystem**, Việt Nam  
+  - Người đứng đầu chịu trách nhiệm về giao diện người dùng của **Dakdesign**, nền tảng được phát triển bởi **Daksystem**.  
+  - Xây dựng kiến trúc giao diện người dùng và làm việc chặt chẽ với các nhóm thiết kế và backend để đảm bảo tích hợp liền mạch.  
+  - Đóng góp vào hàng trăm dự án, bao gồm các công cụ nội bộ giúp quản lý quy trình và nội dung của nền tảng.
+
+### Giáo dục
+- **2005 - 2017**  
+  **Đại học Bách Khoa Đà Nẵng - Đại học SP Hà Nội**  
+  Bằng Kỹ sư cao cấp - Thạc sĩ Hệ thống thông tin  
+  - Tham gia cuộc thi lập trình quốc tế **Google Dev** và đạt giải **3**.
 
 ## Dự án tiêu biểu
 Một số dự án đáng chú ý mà tôi đã tham gia:
-- **Dự án X**: Phát triển giao diện và tối ưu hóa trải nghiệm người dùng cho ứng dụng di động.
-- **Dự án Y**: Xây dựng nền tảng web, tích hợp các công cụ và hệ thống giúp cải thiện hiệu suất và khả năng mở rộng.
+- **[DAKsystem](https://hoangquoctuan.net/daksystem)**  
+  Công ty thiết kế website sử dụng các công nghệ: React, Vite, Tailwind CSS, Deezer API.
+- **[DaklakWeb](https://hoangquoctuan.net/daklakweb)**  
+  Dịch vụ thiết kế web chuyên nghiệp sử dụng Next.js, Prisma, OpenAI.
+- **[Faceland - Namsilk - OtoAuto](https://hoangquoctuan.net/faceland-namsilk-otoauto)**  
+  Đăng tin bất động sản, mua bán ô tô và thời trang may mặc sử dụng Next.js, Sanity.
+- **[DAKdesign](https://hoangquoctuan.net/dakdesign)**  
+  Dịch vụ thiết kế với các công nghệ React, Firebase, Cloudflare.
 
 ## Kỹ năng
-- **Frontend Development**: React, Vue.js, Angular
-- **Mobile Development**: React Native, Flutter
-- **UI/UX Design**: Thiết kế giao diện người dùng tối ưu, thân thiện
-- **Tools**: Git, Webpack, Docker, CI/CD
+Tôi luôn tìm kiếm các cách thức mới để cải thiện kỹ năng và nâng cao năng lực kỹ thuật của mình:
+- **Frontend**: React, Next.js, Tailwind CSS, Figma, HTML, CSS, JavaScript
+- **Mobile**: React Native
+- **Version Control**: Git, GitHub
 
 ## Liên hệ với tôi
 Bạn có thể kết nối với tôi qua các mạng xã hội dưới đây:
@@ -24,5 +45,9 @@ Bạn có thể kết nối với tôi qua các mạng xã hội dưới đây:
 - [Twitter](https://twitter.com/hoangquoctuan)
 - [GitHub](https://github.com/hoangquoctuan)
 - [Website](https://hoangquoctuan.net)
+
+### Số điện thoại
+- 0943.943.179
+- 07.7228.7228
 
 Chúc bạn có những trải nghiệm tuyệt vời và hy vọng được hợp tác cùng bạn trong tương lai!
