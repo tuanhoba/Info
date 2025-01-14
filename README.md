@@ -41,10 +41,10 @@ Tôi luôn tìm kiếm các cách thức mới để cải thiện kỹ năng v�
 
 ## Liên hệ với tôi
 Bạn có thể kết nối với tôi qua các mạng xã hội dưới đây:
-- [Facebook](https://www.facebook.com/hoangquoctuan)
-- [LinkedIn](https://www.linkedin.com/in/hoangquoctuan)
-- [Twitter](https://twitter.com/hoangquoctuan)
-- [GitHub](https://github.com/hoangquoctuan)
+- [Facebook](https://www.facebook.com/hoangquoctuanceo)
+- [LinkedIn](https://www.linkedin.com/in/tuanhoba)
+- [Twitter](https://twitter.com/tuanhoba)
+- [GitHub](https://github.com/tuanhoba)
 - [Website](https://hoangquoctuan.net)
 
 ### Số điện thoại
